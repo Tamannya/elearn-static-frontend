@@ -65,6 +65,8 @@ Open index.html in your browser
 
 (Or use Live Server for hot reload)
 
+🎬 [Watch Demo Video](KNOWIFY DEMO VIDEO.mp4)
+
 👥 Team KNOWIFY
 🌟 Tamannya Mukherjee – UI & Documentation
 
